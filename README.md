@@ -1,4 +1,4 @@
-# Simple note taking app built with javascript. It lets you create and delete notes, It also uses your browwser local storage, so you won't lose any notes if the browser is reloaded or closed.
+# Simple note taking app built with javascript. It lets you create and delete notes, It also uses your browser local storage, so you won't lose any notes if the browser is reloaded or closed.
 <p align="center">
 https://iberserker89.github.io/Notes-App/
 </p>
